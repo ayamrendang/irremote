@@ -1,4 +1,4 @@
-# irremote
+# irremote for pc
 IR Remote + Python3.
 
 Neccessity is the mother of invention. It is by no means I am a lazy bastard and refuse to stand up to change the volume on my pc which is 3 steps away.
